@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "m0zart89\\\\phpword\\\\": ""
+            "m0zart89\\phpword\\": ""
         }
     }
 }
