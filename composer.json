@@ -12,7 +12,7 @@
     ],
     "require": {
 		"yiisoft/yii2": "*",
-        	"phpoffice/phpword": "0.11.1"
+		"m0zart89/yii2-phpword": "*"
     },
     "autoload": {
         "psr-4": {
