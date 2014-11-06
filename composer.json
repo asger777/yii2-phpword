@@ -1,8 +1,8 @@
 {
     "name": "m0zart89/yii2-phpword",
     "description": "This extension allows you manipulate a docx files",
-    "type": "yii2-extension",
     "keywords": ["yii2","extension","phpword"],
+    "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
         {
