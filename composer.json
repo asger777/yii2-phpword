@@ -11,17 +11,12 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "*",
+		"phpoffice/phpword": "0.11.1"
     },
     "autoload": {
         "psr-4": {
             "m0zart89\\\\phpword\\\\": ""
         }
-    },
-	"repositories":[
-		{
-			"type": "git",
-			"url": "https://github.com/m0zart89/yii2-phpword.git"
-		}
-	]
+    }
 }
