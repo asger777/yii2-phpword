@@ -1,4 +1,4 @@
-PHPWord
+PHPWord (in progress)
 =======
 This extension allows you manipulate a docx files
 
