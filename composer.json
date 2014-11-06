@@ -1,0 +1,27 @@
+{
+    "name": "m0zart89/yii2-phpword",
+    "description": "This extension allows you manipulate a docx files",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","phpword"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "m0zart89",
+            "email": "mozart-freelance@yandex.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "m0zart89\\\\phpword\\\\": ""
+        }
+    },
+	"repositories":[
+		{
+			"type": "git",
+			"url": "https://github.com/m0zart89/yii2-phpword.git"
+		}
+	]
+}
